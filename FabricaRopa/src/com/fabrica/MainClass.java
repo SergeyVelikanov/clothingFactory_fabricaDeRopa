@@ -66,7 +66,7 @@ public class MainClass
 		 *                se envía la orden de fabricación
 		 * 
 		 * USE CASE 5. After purchasing the stock of the product reaches the minimum threshold then 
-		 *             the app send the production order
+		 *             the app sends the production order
 		 */
 		System.out.println("\nCASO DE USO 5.\nSe recibe 400 € por 20 unds de Prenda 4(negro).");
 		Tienda.vender("Prenda 4","negro",20,400);
